@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c56f8f4-07cb-4317-9947-d008ce7377cb" name="Changes" comment="Create BirthdayCalculator class">
+    <list default="true" id="4c56f8f4-07cb-4317-9947-d008ce7377cb" name="Changes" comment="edit configurations">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BirthdayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BirthdayCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -69,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663441523744</updated>
-      <workItem from="1663441525463" duration="1998000" />
+      <workItem from="1663441525463" duration="2829000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1663441553274</created>
@@ -85,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1663443278363</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="fix resultPrint error BirthdayCalculator class">
+      <created>1663443612743</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1663443612743</updated>
+    </task>
+    <task id="LOCAL-00004" summary="calculate 1000 times">
+      <created>1663443634819</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663443634819</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit configurations">
+      <created>1663443668765</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1663443668765</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,7 +139,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project" />
     <MESSAGE value="Create BirthdayCalculator class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create BirthdayCalculator class" />
+    <MESSAGE value="fix resultPrint error BirthdayCalculator class" />
+    <MESSAGE value="calculate 1000 times" />
+    <MESSAGE value="edit configurations" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit configurations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
