@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c56f8f4-07cb-4317-9947-d008ce7377cb" name="Changes" comment="Create project">
-      <change afterPath="$PROJECT_DIR$/src/BirthdayCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4c56f8f4-07cb-4317-9947-d008ce7377cb" name="Changes" comment="Create BirthdayCalculator class">
+      <change beforePath="$PROJECT_DIR$/src/BirthdayCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BirthdayCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +69,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663441523744</updated>
-      <workItem from="1663441525463" duration="1694000" />
+      <workItem from="1663441525463" duration="1998000" />
     </task>
     <task id="LOCAL-00001" summary="Create project">
       <created>1663441553274</created>
@@ -79,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663441553274</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Create BirthdayCalculator class">
+      <created>1663443278363</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663443278363</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +102,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="origin" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -110,6 +116,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create project" />
+    <MESSAGE value="Create BirthdayCalculator class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create BirthdayCalculator class" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/BirthdayCalculator.java</url>
+          <line>20</line>
+          <properties class="BirthdayCalculator" method="isThereSameBirthday">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
