@@ -14,8 +14,8 @@ public class BirthdayCalculator {
 
     void printResult()
     {
-        System.out.println("result:\t"+_trueResult+"/"+(_trueResult+_falseResult));
-        System.out.println(((float) _trueResult)/(((float) _trueResult)+((float) _falseResult)));
+        System.out.println("\t\tresult:\t"+_trueResult+"/"+(_trueResult+_falseResult));
+        System.out.println("\t\t\t"+((float) _trueResult)/(((float) _trueResult)+((float) _falseResult)));
     }
 
     boolean isThereSameBirthday() {
