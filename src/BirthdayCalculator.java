@@ -14,7 +14,7 @@ public class BirthdayCalculator {
 
     void printResult()
     {
-        System.out.println("result:\t"+_trueResult/(_trueResult+_falseResult));
+        System.out.println("result:\t"+_trueResult+"/"+(_trueResult+_falseResult));
         System.out.println(((float) _trueResult)/(((float) _trueResult)+((float) _falseResult)));
     }
 
@@ -33,7 +33,7 @@ public class BirthdayCalculator {
     private int[] getNumbers(int count, int limit) {
         int[] dayNumbers = new int[_count];
         for (int i = 0; i < _count; i++) {
-            dayNumbers[i] = (random.nextInt() % limit) + 1;
+            dayNumbers[i] = random.nextInt(1,limit+1);
         }
         return dayNumbers;
     }
